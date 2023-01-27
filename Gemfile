@@ -72,3 +72,5 @@ group :test do
 end
 
 gem "ruby-vips", "~> 2.1"
+
+gem "solidus", "~> 3.3"
